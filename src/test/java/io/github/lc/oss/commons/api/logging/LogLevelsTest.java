@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.api.logging;
+package io.github.lc.oss.commons.api.logging;
 
 import java.util.Arrays;
 import java.util.Set;

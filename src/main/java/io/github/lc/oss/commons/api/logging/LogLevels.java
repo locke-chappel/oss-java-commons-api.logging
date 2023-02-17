@@ -1,12 +1,12 @@
-package com.github.lc.oss.commons.api.logging;
+package io.github.lc.oss.commons.api.logging;
 
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import com.github.lc.oss.commons.serialization.Message.Category;
-import com.github.lc.oss.commons.util.TypedEnumCache;
+import io.github.lc.oss.commons.serialization.Message.Category;
+import io.github.lc.oss.commons.util.TypedEnumCache;
 
 public enum LogLevels implements Category {
     Error(40000),
