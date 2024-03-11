@@ -12,7 +12,7 @@
     <version>1.0.10</version>
     <name>${project.artifactId}</name>
     <description>API contract for remote logging</description>
-    <url>https://github.com/locke-chappel/oss-commons-api.logging</url>
+    <url>https://github.com/locke-chappel/oss-java-commons-api.logging</url>
 
     <licenses>
         <license>
